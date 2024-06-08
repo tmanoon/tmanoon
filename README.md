@@ -26,4 +26,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
-# 💻 [My latest collaborative project](https://staybnb-dz31.onrender.com/#/?bathrooms=any&beds=any&instant=false&selfCheckIn=false&allowsPets=false&bedrooms=any&placeType=any&min=0&max=2000&label=&adults=0&children=0&infants=0&pets=0&entryDate=&exitDate=)
+# 👥 [My latest collaborative project](https://staybnb-dz31.onrender.com/#/?bathrooms=any&beds=any&instant=false&selfCheckIn=false&allowsPets=false&bedrooms=any&placeType=any&min=0&max=2000&label=&adults=0&children=0&infants=0&pets=0&entryDate=&exitDate=)
