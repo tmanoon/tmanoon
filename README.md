@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shoval!
 👩🏻‍💻 Fullstack Developer sharing my coding abilities and love for code through my projects. <br/>
 👩🏻‍🎓 Studied how to code and build e2e applications at [Coding Academy, Israel](https://www.coding-academy.org/?src=GoogleAds&cmp=Brand(Feb2023)&adId=697863411823&adGrpId=165488716310&extClicked=&network=g&adPos=&keyword=coding%20academy&gad_source=1&gclid=CjwKCAjwgpCzBhBhEiwAOSQWQe2kDxm5eW5FnJP2mPEdMNCayoB-h2P6VhY2Pv8mn_idGbF1LrgVQRoCKo0QAvD_BwE)<br/>
-🦜 At home, I create and develop each and every projects with my two parrots on/around me, just like Captain Barbosa. <br/>
+🦜 At home, I create and develop each and every projects with my two parrots on/around me, just like Captain Hook. <br/>
 🧠 I am currently deepening my knowledge in microservices and databases.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
